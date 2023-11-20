@@ -1,0 +1,30 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Atom One Dark",
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.foldingMaximumRegions": 10000,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.wrapTabs": true,
+  "git.confirmSync": false,
+  "vscord.status.problems.enabled": false,
+  "vscord.status.image.small.idle.text": "editing {file_extension}",
+  "vscord.status.button.active.enabled": false,
+  "vscord.ignore.workspacesText": "",
+  "vscord.status.details.text.idle": "editing {file_extension}",
+  "vscord.status.state.text.idle": "editing {file_extension}",
+  "vscord.status.image.large.idle.text": "editing {file_extension}",
+  "vscord.status.state.text.editing": "Working on...",
+  "vscord.status.details.enabled": false,
+  "editor.inlineSuggest.enabled": true,
+  "livePreview.hostIP": "222.110.133.193",
+  "livePreview.autoRefreshPreview": "On Changes to Saved Files",
+  "liveServer.settings.host": "222.110.133.193",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "livePreview.httpHeaders": {
+    "Accept-Ranges": "bytes"
+  }
+}

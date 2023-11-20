@@ -1,0 +1,22 @@
+{
+  "recommendations": [
+    "akamud.vscode-theme-onedark",
+    "formulahendry.auto-rename-tag",
+    "naumovs.color-highlight",
+    "ms-azuretools.vscode-docker",
+    "dbaeumer.vscode-eslint",
+    "figma.figma-vscode-extension",
+    "mhutchie.git-graph",
+    "github.remotehub",
+    "eamodio.gitlens",
+    "sidthesloth.html5-boilerplate",
+    "ecmel.vscode-html-css",
+    "yzhang.markdown-all-in-one",
+    "bierner.markdown-preview-github-styles",
+    "davidanson.vscode-markdownlint",
+    "pkief.material-icon-theme",
+    "esbenp.prettier-vscode",
+    "burkeholland.simple-react-snippets",
+    "simonsiefke.svg-preview"
+  ]
+}

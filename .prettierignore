@@ -1,0 +1,8 @@
+/*/dist/
+
+/.cache
+
+/.github
+
+# ts
+/tsconfig.base.json
