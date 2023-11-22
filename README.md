@@ -90,9 +90,10 @@ $ pnpm build
 - theres no automation deploy yet, but _will be update_
 ```
 
-## MADE BY 🤡
+## MADE BY & BIG THANKS 🤡
 
-<a href="https://github.com/jarry3369"><img src="https://avatars.githubusercontent.com/u/25889048?v=4" height="60" /></a>&nbsp;&nbsp;
+<a href="https://github.com/jarry3369"><img src="https://github.com/jarry3369.png" height="60" /></a>&nbsp;&nbsp;
+<a href="https://github.com/IHyeon"><img src="https://github.com/IHyeon.png" height="60" /></a>&nbsp;&nbsp;
 
 ## Update Scheduled Features
 
