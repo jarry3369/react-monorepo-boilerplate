@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+body > #root {
+  margin: 0;
+
+  width: calc(100vw);
+  height: calc(100vh);
+
+  display: flex;
+  flex-direction: column;
+}
