@@ -10,10 +10,10 @@ type servedType = {
  * 수정 금지
  */
 
-const PRESERVED = import.meta.glob<Record<string, string>>("../pages/(_app|404).(js|jsx|ts|tsx)", {
+const PRESERVED = import.meta.glob<Record<string, string>>("../pages/(_app|404).{js,jsx,ts,tsx}", {
   eager: true,
 });
-const ROUTES = import.meta.glob<Record<string, string>>("../pages/**/[a-z[]*.(js|jsx|ts|tsx)", {
+const ROUTES = import.meta.glob<Record<string, string>>("../pages/**/[a-z[]*.{js,jsx,ts,tsx}", {
   eager: true,
 });
 
