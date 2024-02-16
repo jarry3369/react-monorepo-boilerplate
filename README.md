@@ -62,7 +62,7 @@ $ pnpm add -w <NODE_PACKAGE_NAME>
 $ pnpm add --filter <MONOREPO_PACKAGE_NAME> <NODE_PACKAGE_NAME>
 ```
 
-wanna remve dependencies from party,
+wanna remove dependencies from party,
 
 ```bash
 # When used inside a workspace, removes a dependency (or dependencies) from every workspace package.
