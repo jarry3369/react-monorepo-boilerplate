@@ -3,5 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
-  "dependencies": {}
+  "dependencies": {},
+  "scripts": {
+    "workspace": "sh workspace.sh"
+  }
 }

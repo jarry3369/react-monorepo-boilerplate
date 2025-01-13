@@ -48,6 +48,17 @@ $ pnpm install
 $ pnpm dev
 ```
 
+add some new parties,
+
+```bash
+# Will craete a new party with configures automaticly
+$ pnpm workspace [workspace-name]
+# (root)/workspace-name
+# ├── package.json
+# ├── tsconfig.json
+# └── tsconfig.base.json
+```
+
 **IMPORTANT**: Ensure that VSCode is using the workspace [version of TypeScript](https://code.visualstudio.com/docs/typescript/typescript-compiling#_using-newer-typescript-versions)
 and ESLint.
 

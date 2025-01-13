@@ -16,7 +16,8 @@
     "dev": "pnpm --dir app dev",
     "preview": "pnpm --dir app build && pnpm --dir app preview",
     "test": "vitest",
-    "build": "pnpm -r build"
+    "build": "pnpm -r build",
+    "workspace": "pnpm --filter scripts run workspace"
   },
   "devDependencies": {
     "@types/react": "^18.2.37",
