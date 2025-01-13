@@ -93,7 +93,7 @@ $ pnpm build
 ## MADE BY & BIG THANKS 🤡
 
 <a href="https://github.com/jarry3369"><img src="https://github.com/jarry3369.png" height="60" /></a>&nbsp;&nbsp;
-<a href="https://github.com/IHyeon"><img src="https://github.com/IHyeon.png" height="60" /></a>&nbsp;&nbsp;
+<a href="https://github.com/hyeonse-swing"><img src="https://github.com/hyeonse-swing.png" height="60" /></a>&nbsp;&nbsp;
 
 ## Update Scheduled Features
 
