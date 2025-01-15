@@ -1,5 +1,7 @@
 # React Monorepo Boilerplate
 
+[for modern typescript](https://github.com/jarry3369/modern-typescript-monorepo-boilerplate)
+
 template for building web applications with [React](https://react.dev/)
 
 ## Features
@@ -10,7 +12,7 @@ template for building web applications with [React](https://react.dev/)
 
 ## Directory Structure
 
-basically it's monopoe, so additional scripts or servers can be developed in repo
+basically it's mono repo, so additional scripts or servers can be developed in repo
 
 `├──`[`.github`](.github) — GitHub configuration including CI/CD workflows  
 `├──`[`.vscode`](.vscode) — VSCode settings, recommended extensions etc.  
@@ -48,17 +50,6 @@ $ pnpm install
 $ pnpm dev
 ```
 
-add some new parties,
-
-```bash
-# Will craete a new party with configures automaticly
-$ pnpm workspace [workspace-name]
-# (root)/workspace-name
-# ├── package.json
-# ├── tsconfig.json
-# └── tsconfig.base.json
-```
-
 **IMPORTANT**: Ensure that VSCode is using the workspace [version of TypeScript](https://code.visualstudio.com/docs/typescript/typescript-compiling#_using-newer-typescript-versions)
 and ESLint.
 
@@ -91,6 +82,7 @@ $ pnpm remove --filter <MONOREPO_PACKAGE_NAME> <NODE_PACKAGE_NAME>
 - `pnpm preview` — Launches the app in production env
 - `pnpm test` — Run unit tests with Vitest, Supertest
 - `pnpm build` — Run build for all projects in repository.
+- `pnpm workspace <WORKSPACE-NAME> [-rm]` - Create additional workspaces with configurations. [-rm] flag will remove target workspace from the repository.
 
 ## How to Deploy
 
